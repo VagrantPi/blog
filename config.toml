@@ -1,0 +1,7 @@
+baseURL = 'http://example.org/'
+languageCode = 'zh-tw'
+title = 'VagrantPi Blog'
+theme = 'hyde'
+
+[params]
+  description = "生活札記，記錄些學習筆記和生活"
